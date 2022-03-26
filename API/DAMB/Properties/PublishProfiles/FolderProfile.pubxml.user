@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\DAMB</_PublishTargetUrl>
+    <History>False|2022-01-06T11:07:42.2669779Z;True|2022-01-03T16:17:37.8221567+07:00;True|2022-01-02T15:13:44.6741671+07:00;True|2022-01-02T12:04:03.9474709+07:00;True|2022-01-02T12:02:43.1770203+07:00;True|2022-01-02T11:58:43.2424530+07:00;True|2022-01-02T11:57:34.6226210+07:00;True|2022-01-02T11:55:11.9389078+07:00;False|2022-01-02T11:53:02.0788853+07:00;False|2022-01-02T11:41:24.0668942+07:00;True|2021-12-28T20:36:30.2868996+07:00;True|2021-12-28T20:33:27.8315302+07:00;True|2021-12-26T12:10:58.7747132+07:00;</History>
+  </PropertyGroup>
+</Project>

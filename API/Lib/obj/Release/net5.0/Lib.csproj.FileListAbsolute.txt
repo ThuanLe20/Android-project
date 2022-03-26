@@ -1,0 +1,15 @@
+C:\Users\thuan\source\repos\DAMB\Lib\bin\Release\net5.0\Lib.deps.json
+C:\Users\thuan\source\repos\DAMB\Lib\bin\Release\net5.0\Lib.runtimeconfig.json
+C:\Users\thuan\source\repos\DAMB\Lib\bin\Release\net5.0\Lib.runtimeconfig.dev.json
+C:\Users\thuan\source\repos\DAMB\Lib\bin\Release\net5.0\Lib.dll
+C:\Users\thuan\source\repos\DAMB\Lib\bin\Release\net5.0\ref\Lib.dll
+C:\Users\thuan\source\repos\DAMB\Lib\bin\Release\net5.0\Lib.pdb
+C:\Users\thuan\source\repos\DAMB\Lib\obj\Release\net5.0\Lib.csproj.AssemblyReference.cache
+C:\Users\thuan\source\repos\DAMB\Lib\obj\Release\net5.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thuan\source\repos\DAMB\Lib\obj\Release\net5.0\Lib.AssemblyInfoInputs.cache
+C:\Users\thuan\source\repos\DAMB\Lib\obj\Release\net5.0\Lib.AssemblyInfo.cs
+C:\Users\thuan\source\repos\DAMB\Lib\obj\Release\net5.0\Lib.csproj.CoreCompileInputs.cache
+C:\Users\thuan\source\repos\DAMB\Lib\obj\Release\net5.0\Lib.dll
+C:\Users\thuan\source\repos\DAMB\Lib\obj\Release\net5.0\ref\Lib.dll
+C:\Users\thuan\source\repos\DAMB\Lib\obj\Release\net5.0\Lib.pdb
+C:\Users\thuan\source\repos\DAMB\Lib\obj\Release\net5.0\Lib.genruntimeconfig.cache

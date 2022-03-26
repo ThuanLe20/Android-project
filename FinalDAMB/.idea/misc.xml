@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/drawable/customborder.xml" value="0.14" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/drawable/customborder2.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/drawable/editbtnquiz.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/drawable/round_back_blue10.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/drawable/round_back_blue20.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/drawable/round_back_green20.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/layout/activity_details_fw.xml" value="0.22" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/layout/activity_details_listen.xml" value="0.22" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/layout/activity_details_word.xml" value="0.25" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/layout/activity_etc.xml" value="0.22" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/layout/activity_favorityword.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/layout/activity_gmail.xml" value="0.22" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/layout/activity_listen.xml" value="0.15534420289855072" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/layout/activity_question.xml" value="0.18958333333333333" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/layout/activity_quiz2.xml" value="0.25" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/layout/activity_quiz_result.xml" value="0.209375" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/layout/activity_settings.xml" value="0.2601626016260163" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/layout/activity_share.xml" value="0.19293478260869565" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/layout/activity_translation.xml" value="0.22" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/layout/activity_word.xml" value="0.25" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/layout/fwlayout.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/layout/listenlayout.xml" value="0.16576086956521738" />
+        <entry key="..\:/Users/thuan/AndroidStudioProjects/FinalDAMB/app/src/main/res/layout/wordlayout.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
